@@ -10,7 +10,7 @@ blue = "\033[34m"
 bold = "\033[1m"
 reset = "\033[0m"
 
-libraries = ['pyfiglet', 'pyrcrack', 'psutil']
+libraries = ['pyfiglet', 'pyrcrack', 'psutil', 'tabulate']
 version = "0.01"
 
 def root():
